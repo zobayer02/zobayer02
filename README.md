@@ -5,10 +5,10 @@
 ---
 
 ## About Me
-- 💡 Passionate about **building scalable web applications** and integrating **AI/ML features**.  
-- 🌐 Skilled in both **frontend & backend development**, ensuring end-to-end solutions.  
-- 🔬 Exploring the intersection of **Web Engineering** and **Artificial Intelligence**.  
-- 📚 Lifelong learner, constantly upgrading skills to adapt to new technologies.  
+-  Passionate about **building scalable web applications** and integrating **AI/ML features**.  
+-  Skilled in both **frontend & backend development**, ensuring end-to-end solutions.  
+-  Exploring the intersection of **Web Engineering** and **Artificial Intelligence**.  
+-  Lifelong learner, constantly upgrading skills to adapt to new technologies.  
 
 ---
 

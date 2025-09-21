@@ -1,10 +1,10 @@
 # 👋 Hello there, I'm A.S.M. Zobayer Tanveer  
 
-🚀 **Web Engineer | Full Stack Developer | AI & ML Enthusiast**
+**Web Engineer | Full Stack Developer | AI & ML Enthusiast**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 💡 Passionate about **building scalable web applications** and integrating **AI/ML features**.  
 - 🌐 Skilled in both **frontend & backend development**, ensuring end-to-end solutions.  
 - 🔬 Exploring the intersection of **Web Engineering** and **Artificial Intelligence**.  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
@@ -37,18 +37,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Zobayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobayer02&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer02&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmzobayertanveer)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
-⭐ *“Code with logic, design with passion, and innovate with AI.”*  
+⭐ *“Code with logic, design with passion and innovate with AI.”*  
